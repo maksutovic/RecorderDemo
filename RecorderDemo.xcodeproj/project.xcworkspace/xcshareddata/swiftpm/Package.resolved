@@ -1,0 +1,15 @@
+{
+  "originHash" : "58a424c504c1f01e6f725def1c16b3d3b564b7a6d6906b94a58449f7292e133b",
+  "pins" : [
+    {
+      "identity" : "audioprocessor",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ArchieGoodwin/AudioProcessor/",
+      "state" : {
+        "revision" : "293d9bd9eb2ce07ca83ea9cde4f2fbb4d1b274ab",
+        "version" : "0.9.5"
+      }
+    }
+  ],
+  "version" : 3
+}
